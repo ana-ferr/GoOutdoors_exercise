@@ -1,8 +1,5 @@
 # GoOutdoors_exercise
-Exercise testing webpage selecting item and checking stock
-
-WestwingNow_WebdriverIO
-Automation test using WebDriver.IO
+Exercise testing webpage selecting item and checking stock usgin WebDriver.IO
 
 I've used Visual Studio Code to create and run the tests. 
 I've created 7 tests with a few steps each to make it easy to evaluate which tests have failed/passed.
